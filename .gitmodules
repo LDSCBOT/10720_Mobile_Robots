@@ -1,0 +1,3 @@
+[submodule "installROSTX2"]
+	path = installROSTX2
+	url = https://github.com/jetsonhacks/installROSTX2.git
